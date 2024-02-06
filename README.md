@@ -39,6 +39,8 @@
     Check out our website: <a href="https://pi-apps.io">pi-apps.io</a>
 </p>
 
+[![Mark stale issues and pull requests](https://github.com/KOSASIH/pi-apps/actions/workflows/stale.yml/badge.svg)](https://github.com/KOSASIH/pi-apps/actions/workflows/stale.yml)
+
 ## Introduction
 Let's be honest: **Linux is harder to master than Windows.** Sometimes it's not user-friendly, and following an outdated tutorial may break your Raspberry Pi's operating system.  
 There is no centralized software repository, except for the `apt` repositories which lack many desktop applications.  
